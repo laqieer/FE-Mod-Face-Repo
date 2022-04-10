@@ -1,1 +1,0 @@
-Import the .s file into the song table spot labelled on it.
