@@ -1,1 +1,0 @@
-This animation has a known issue with the spearhead becoming transparent.
